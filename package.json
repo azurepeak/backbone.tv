@@ -1,6 +1,6 @@
 {
   "name": "backbone.tv",
-  "version": "0.3.3",
+  "version": "0.0.1",
   "description": "backbone-tv is the backbone extension library to make easily webapp for kind of tv style.",
   "main": "backbont.tv.js",
   "dependencies": {
